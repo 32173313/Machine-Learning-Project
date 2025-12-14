@@ -30,6 +30,18 @@ We experiment with **five different models**, ranging from classical machine lea
 
 ---
 
+## Requirements
+
+- Python 3.8+
+- NumPy
+- Pandas
+- Scikit-learn
+- TensorFlow
+- Matplotlib
+- Seaborn
+
+---
+
 ## Dataset
 
 - Source: `tensorflow.keras.datasets.imdb`
