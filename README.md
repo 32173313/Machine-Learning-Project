@@ -1,4 +1,4 @@
-# IMDb Movie Review Sentiment Analysis
+# IMDb Movie Review Sentiment Analysis 
 
 This project performs sentiment analysis on the IMDb movie reviews dataset using multiple feature engineering strategies and machine learning / deep learning models.  
 The goal is to systematically compare traditional methods, neural networks, sequence models, and transfer learning approaches on the same dataset.
