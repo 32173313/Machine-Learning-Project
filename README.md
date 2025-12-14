@@ -39,7 +39,8 @@ We experiment with **five different models**, ranging from classical machine lea
 - TensorFlow 
 - Matplotlib 
 - Seaborn 
-
+- NLTK 
+- Gensim 
 ---
 
 ## Dataset
