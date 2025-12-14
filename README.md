@@ -100,7 +100,7 @@ We design and compare three types of features:
 - Trained from scratch with trainable embeddings
 
 ### Model 5: Transfer Learning (GloVe + LSTM)
-- Pre-trained GloVe embeddings (100 dimensions)
+- Pre-trained GloVe embeddings
 - Fine-tuned embedding layer
 - Best semantic representation capability
 
